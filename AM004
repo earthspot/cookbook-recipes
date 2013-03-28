@@ -1,0 +1,6 @@
+description
+To set the octave directly for sampler rig 3
+
+script
+sampler rig 3 hey
+  scaler 1 hey octave to -3 set
