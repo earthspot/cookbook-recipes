@@ -1,0 +1,7 @@
+description
+To move the octave for sampler rig 3 up or down
+(optional replace: octave up with: octave down).
+
+script
+sampler rig 3 hey
+  scaler 1 octave up
