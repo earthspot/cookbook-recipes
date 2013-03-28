@@ -2,6 +2,11 @@ description
 To move the octave for sampler rig 3 up or down
 (optional replace: octave up with: octave down).
 
+You need 'sampler rig 3 hey' otherwise 
+this will change all 'scaler 1' everywhere.
+
+NB: All scalers are inside rigs.
+
 script
 sampler rig 3 hey
   scaler 1 octave up
