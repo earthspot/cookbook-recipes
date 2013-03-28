@@ -1,6 +1,6 @@
 description
 To move the relative octave of a given scaler up or down
-(replace: octave up with: octave down)
+(replace: octave up with: octave down).
 
 script
 sampler rig 3 hey 
