@@ -1,0 +1,7 @@
+description
+To change the relative octave of a given scaler to a given value
+
+script
+empty join
+sampler rig 3 hey 
+  scaler 1 relative octave to - 3 set
