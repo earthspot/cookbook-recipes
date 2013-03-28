@@ -1,0 +1,6 @@
+description
+To prevent the octave keys changing the scale of a given instrument (rig 3)
+
+script
+sampler rig 3 hey
+  scaler 1 override set
