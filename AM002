@@ -1,0 +1,7 @@
+description
+To move the relative octave of a given scaler up or down
+(replace: octave up with: octave down)
+
+script
+sampler rig 3 hey 
+  scaler 1 relative octave up
