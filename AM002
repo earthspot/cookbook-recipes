@@ -1,6 +1,8 @@
 description
 To move the relative octave of a given scaler up or down
-(replace: octave up with: octave down).
+(optional replace: octave up with: octave down).
+The scaler will respond to octave transposition using the octave keys, 
+but be in a different relative octave from the other instruments.
 
 script
 sampler rig 3 hey 
