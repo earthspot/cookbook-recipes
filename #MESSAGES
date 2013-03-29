@@ -19,3 +19,18 @@ Is there a way to change the name? (except by hand, once the file has been creat
 AM008
 [IC] +AM Brilliant! I was just going to ask you how to do this!
 [AM] keep comming with "Eigen Belcanto wishes/ridles" guess I'm not the only one pleased to solve them
+
+[AM] Still about AM008 - running scripts either from EiegnCommaner or inside a talker.
+There must be a "name" field iside the script file, that name must mandatorily be a Belcanto name,
+but the actual file name +.txt can be anything we want... confusions.
+Example:
+I think there is no way to run the script file (or any factory script) "Pico 1 Tonics" 
+Try copy it from (factory scripts reside in pi/release-2.0.74-stable/resources/scripts/lights)
+and inside the file add a fiel 
+name
+    tonic script
+
+Then use AM008 
+(overall I cant understand how EigenD know about the script files... and this naming situation is accurate or not.
+needs some "love".
+
