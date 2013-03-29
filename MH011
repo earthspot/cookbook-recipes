@@ -1,0 +1,7 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/a-bit-more-about-talkers/
+Connecting Pico keys and lights to 'auto talker'
+
+script
+main keygroup output keygroup 1 key output to auto talker key input connect
+auto talker light output to main keygroup output keygroup 1 light input connect
