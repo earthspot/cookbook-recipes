@@ -1,0 +1,9 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/a-bit-more-about-talkers/
+Changing the lights controlled by 'tonic talker'
+Change 'key 3' to green, all other keys left unchanged
+0=black, 1=green, 2=red, 3=amber
+
+script
+tonic talker hey
+3 to 1 colour ify
