@@ -1,0 +1,9 @@
+description
+Belcanto for running scripts thru EiegnCommander (must exist the interpreter agent in the setup)
+The script file must contain 3 "fileds"
+description (explanation)
+name (what will be used to identity/run)
+script (actual belcanto script)
+
+script
+interpreter 1 hey [name of script] script execute
