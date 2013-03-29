@@ -4,6 +4,8 @@ Octave talker, the switching logic to set the global variable:
   variable octave step
 used in MH004
 
+Phrase: 'octave talker hey re do' forces recompile of Belcanto in the talker
+
 script
 empty join
 green talker listen
