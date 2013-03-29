@@ -1,0 +1,23 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/octave-talker/
+Octave talker, the switching logic to set the global variable:
+  variable octave step
+used in MH004
+
+script
+empty join
+green talker listen
+1 called 1 cancel
+2 called 1 cancel
+
+"
+empty join
+1 as octave step define
+simple octave talker hey re do
+" when 1 called 1 do
+
+"
+empty join
+0.33333333333333331 as octave step define
+octave talker hey re do
+" when 2 called 1 do
