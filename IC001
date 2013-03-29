@@ -1,0 +1,7 @@
+description
+To view a list of Belcanto actions inside 'octave talker' [from AM]
+First launch EigenBrowser.
+Best to enter the phrase below by hand into EigenCommander.
+
+script
+octave talker phrase browse
