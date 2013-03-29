@@ -1,0 +1,6 @@
+description
+To start creating a recording from Eigenharp main audio output.
+.WAV created in: User/library/Eigenlabs/2.0.74-stable/audio/
+
+script
+audio hey recorder set
