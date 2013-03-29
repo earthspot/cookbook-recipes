@@ -34,3 +34,11 @@ Then use AM008
 (overall I cant understand how EigenD know about the script files... and this naming situation is accurate or not.
 needs some "love".
 
+AM009
+[AM] Belcanto interpreter - play Belcanto from Eigenharp Pico
+This is an effor to update from 1.4 to 2.0 from here:
+http://www.eigenlabs.com/wiki/2.0/Pico_Interpreter/
+ATTENTION Cannot seem to put the keys O = oops and B = backspace (from course 2) correct.
+If you enter manualy the new layout it works; not from the script...
+
+
