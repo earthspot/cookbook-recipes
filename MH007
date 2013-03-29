@@ -1,0 +1,7 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/a-bit-more-about-talkers/
+To set the action of 'auto talker' created in MH006
+
+script
+auto talker hey
+" metronome 1 hey start " when 1 called 1 do
