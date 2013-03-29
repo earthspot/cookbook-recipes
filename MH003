@@ -1,0 +1,29 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/octave-talker/
+Octave talker, 
+Originally I wanted to do this action on another keygroup, to allow me to switch between the two
+This switch was done on a talker i happen to call ‘green talker’
+
+script
+empty join
+green talker listen
+
+1 called 1 cancel
+'
+empty join
+octave talker listen
+1 called 1 cancel
+" main keygroup hey octave by 1 down " when 1 called 1 do
+2 called 1 cancel
+" main keygroup hey octave by 1 up " when 2 called 1 do
+' when 1 called 1
+
+2 called 1 cancel
+'
+empty join
+octave talker listen
+1 called 1 cancel
+" main keygroup hey octave by 0.33333333333333331 down " when 1 called 1 do
+2 called 1 cancel
+" main keygroup hey octave by 0.33333333333333331 up " when 2 called 1 do
+' when 2 called 1
