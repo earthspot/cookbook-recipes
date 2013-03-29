@@ -1,7 +1,8 @@
 description
 To STOP creating a recording from Eigenharp main audio output
 (having started with AM006)
-.WAV created in: User/library/Eigenlabs/2.0.74-stable/audio/
+.WAV created: User/library/Eigenlabs/2.0.74-stable/audio/audio.wav
+...the name is always 'audio.wav' and overwrites any existing 'audio.wav'
 
 script
 audio hey recorder un set
