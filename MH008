@@ -1,0 +1,9 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/a-bit-more-about-talkers/
+To map a physical key to 'auto talker' created in MH006
+The Pico keys in row 3 are the 4 buttons, of which cols 1,2 are the octave buttons.
+'key 1' of the talker is simply the first key mapping to be created.
+
+script
+auto talker hey key 1 key column to 2 set
+auto talker hey key 1 key row to 3 set
