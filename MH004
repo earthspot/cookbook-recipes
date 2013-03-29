@@ -1,0 +1,12 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/octave-talker/
+Octave talker, first solution altered to use a global variable:
+  variable octave step
+
+script
+empty join
+octave talker listen
+1 called 1 cancel
+" main keygroup hey octave by variable octave step down " when 1 called 1 do
+2 called 1 cancel
+" main keygroup hey octave by variable octave step up " when 2 called 1 do
