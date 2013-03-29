@@ -1,0 +1,12 @@
+description
+From: http://myeigenharp.wordpress.com/2013/3/27/octave-talker/
+Octave talker, Restore original octave behaviour
+
+script
+empty join
+octave talker listen
+1 called 1 cancel
+" main keygroup hey octave by 1 down " when 1 called 1 do
+2 called 1 cancel
+" main keygroup hey octave by 1 up " when 2 called 1 do
+# [IC] redundant? 'by 1'
