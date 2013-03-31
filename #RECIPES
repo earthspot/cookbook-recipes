@@ -1,0 +1,20 @@
+AM001 To change the relative octave of a given scaler to a given value
+AM002 To move the relative octave of a given scaler up or down
+AM003 To prevent the octave keys changing the scale of a given instrument (rig 3)
+AM004 To set the octave directly for sampler rig 3
+AM005 To move the octave for sampler rig 3 up or down
+AM006 To start creating a recording from Eigenharp main audio output
+AM007 To STOP creating a recording from Eigenharp main audio output
+AM008 To execute a named Belcanto script
+IC001 To view a list of Belcanto actions inside 'octave talker'
+MH001 Increase / decrease key in thirds
+MH002 Octave talker, Restore original octave behaviour
+MH003 (green talker, switch between 2 different behaviours)
+MH004 Octave talker, first solution altered to use a global variable
+MH005 Octave talker, the switching logic to set the global variable
+MH006 To create a talker
+MH007 To set the action of 'auto talker' created in MH006
+MH008 To map a physical key to 'auto talker' created in MH006
+MH009 Changing all the lights controlled by 'tonic talker'
+MH010 Changing one light only controlled by 'tonic talker'
+MH011 Connecting Pico keys and lights to 'auto talker'
