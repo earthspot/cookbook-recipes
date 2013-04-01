@@ -15,7 +15,7 @@ green talker listen
 "
 empty join
 1 as octave step define
-simple octave talker hey re do
+octave talker hey re do
 " when 1 called 1 do
 
 "
