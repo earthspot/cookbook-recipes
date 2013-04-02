@@ -1,0 +1,9 @@
+description
+Scales can be set both on the keygroup and the scaler. 
+Since a scaler is connected after a keygroup, there's an override flag 
+on each scaler that you have to set for the scaler's scale to override the keygroup scale.
+
+script
+empty join
+all scaler hey 
+all override un set
