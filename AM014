@@ -1,0 +1,8 @@
+description
+Change all Scaler's scale with numbers
+No need for pre-defined "user scales"
+
+script
+empty join
+all scaler hey
+all scale input to 0 , 2 , 5 , 4.6 , 12 set
