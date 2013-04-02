@@ -1,0 +1,7 @@
+description
+Change all Scaler's scale
+
+script
+empty join
+all scaler hey
+all scale input to major set
