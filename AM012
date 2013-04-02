@@ -1,5 +1,10 @@
 description
 Change all Scaler's scale
+Notice that I used 'scale input' instead of 'scale' here
+since when you use the 'all' construct, Belcanto looks for everything that could match in the agents. 
+There's an output port on the scaler agent that also contains the 'scale' word (scale note output) 
+and setting that to a scale isn't valid. By using 'scale input', only the actual ports for setting the scales 
+are selecting by the 'all' construct. 
 
 script
 empty join
