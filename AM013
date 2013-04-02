@@ -1,0 +1,8 @@
+description
+Change all Scaler's scale with numbers
+
+script
+empty join
+all scaler hey
+all scale input to 0 , 1 , 4 , 6 set
+
