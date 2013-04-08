@@ -8,3 +8,5 @@
 " eigenbrowser hey console mixer 1 browse " do﻿
 " eigenbrowser , midi input 1 hey midi port browse " do
 " eigenbrowser hey scale manager scale browse " do
+" eigenbrowser , metronome 1 browse " do
+" eigenbrowser , drummer 1 browse " do
