@@ -1,0 +1,10 @@
+" eigenbrowser , interpreter hey script browse " do
+" eigenbrowser hey audio 1 port browse " do
+" eigenbrowser , sampler rig 1 sampler oscillator 1 hey sample browse " do
+" eigenbrowser , sampler rig 1 effect audio unit 1 hey plugin browse " do
+" eigenbrowser , audio unit 1 hey plugin browse ' do
+" eigenbrowser , drummer 1 voice 1 browse " do
+" eigenbrowser , midi output 1 hey midi port browse " do
+" eigenbrowser hey console mixer 1 browse " do﻿
+" eigenbrowser , midi input 1 hey midi port browse " do
+" eigenbrowser hey scale manager scale browse " do
