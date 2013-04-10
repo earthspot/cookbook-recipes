@@ -1,0 +1,10 @@
+name 
+  ScalarTransposition-2ndDown 
+description 
+  This script sets the base note of the current scale to -1 
+  (scalar transposition by that amount). 
+
+  This will affect all scalers in the system. 
+
+script 
+  all rig all scaler hey all base note to - 1 set 
