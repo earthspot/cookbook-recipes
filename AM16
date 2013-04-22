@@ -1,0 +1,9 @@
+description
+Alpha - disconnect Sampler 2's volume from breath pipe
+
+script
+
+sampler rig 2 hey 
+gain 1 volume input un connect 
+sampler rig 2 hey 
+gain volume to 1 set 
