@@ -1,0 +1,7 @@
+description
+Alpha - reconnect Sampler 2's to volume from breath
+
+script
+ empty join
+sampler rig 2 hey
+ranger 1 output to gain 1 volume input connect
