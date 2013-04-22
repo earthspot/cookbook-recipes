@@ -1,0 +1,13 @@
+description
+ALPHA - Breath control on Sampler 2
+Doing AM16 will give a fixed volume on the sampler. If you want to make it based on the pressure 
+with which you hit the key on the keyboard, connect a new wire from the Volume Output (under Outputs) 
+on the AHDSR 1 agent and going into the Volume on the Gain agent. 
+This will dynamically change the volume based upon the strength of your key-press.
+
+script
+empty join
+sampler rig 2 listen
+gain 1 volume input un connect  
+gain volume to 1 set
+ahdsr 1 outputs to gain 1 volume input connect
